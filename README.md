@@ -1,5 +1,4 @@
 I'm Hungry
-[![Build Status](https://travis-ci.com/tianxingliu/CS310Project2.svg?branch=master)](https://travis-ci.com/tianxingliu/CS310Project2)
 
 Workspace Directory: imhungry
 
@@ -10,3 +9,5 @@ Frontend Source Directory: src/main/webapp
 JUnit Test Directory: src/test/java
 
 Cucumber Test Directory: src/test/resources
+
+Team Members: Pinghao Luo, Haiyu Tian, Minxuan Song, Tianxing Liu, Guancheng Qiu
